@@ -1,0 +1,16 @@
+{
+	"hooks": {
+		"Stop": [
+			{
+				"hooks": [
+					{
+						"type": "command",
+						"command": "cd \"$CLAUDE_PROJECT_DIR\" && { git diff --name-only --diff-filter=d HEAD; git ls-files --others --exclude-standard; } | sort -u | tr '\\n' '\\0' | xargs -0 bunx prettier --write --ignore-unknown --log-level warn 2>/dev/null || true",
+						"timeout": 60,
+						"statusMessage": "Formatting changed files with Prettier..."
+					}
+				]
+			}
+		]
+	}
+}

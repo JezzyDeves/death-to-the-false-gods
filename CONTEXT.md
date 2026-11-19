@@ -71,3 +71,39 @@ _Avoid_: Critical, bleeding out (that is one cause)
 **Out of the fight**:
 Said of a creature that is unconscious or dead.
 _Avoid_: Downed, defeated, incapacitated
+
+**Turn**:
+One creature's chance to act in a fight, in which it takes exactly one action. Turns pass strictly back and forth between the two creatures.
+_Avoid_: Round, tick, move, initiative
+
+**Strike**:
+One attempt to hit a part of the opponent with a weapon or with a part that can bite, claw, or strike. It misses, lands glancing with reduced force, or lands solid with full force.
+_Avoid_: Attack roll, hit, swing
+
+**Aimed strike**:
+A strike at a part the attacker names. Its opposite is an open strike, which goes wherever the opponent is open and is the easiest to land.
+_Avoid_: Called shot, targeted attack
+
+**Defence**:
+The answer a creature chooses to a strike coming at it: a dodge, a parry with a held weapon, or a block with a shield or with a part of its own body that takes the blow instead.
+_Avoid_: Reaction, save, guard, evasion
+
+**Take down**:
+An attempt to put a standing opponent on the ground by shoving, tripping, or dragging it.
+_Avoid_: Grapple, tackle, knockdown, trip
+
+**On the ground**:
+Said of a creature that is not on its feet, whether it was taken down or has lost standing.
+_Avoid_: Prone, downed, knocked down
+
+**Staunch**:
+To hold a grasping part on one of your own wounds so that it bleeds less or not at all for as long as the hold lasts.
+_Avoid_: Bandage, heal, first aid, treat
+
+**Yield**:
+To offer to stop fighting, which ends the fight with both creatures alive if the opponent accepts.
+_Avoid_: Surrender, mercy, parley
+
+**Condition**:
+Something about a body's present state that makes it fight worse: weakened by blood loss, distracted by pain, short of breath, on the ground, or with a function impaired or lost.
+_Avoid_: Status effect, debuff, penalty
